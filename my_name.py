@@ -1,8 +1,5 @@
-'''
-Print author's name
-
-Created by thor. November 2021
-'''
+def main():
+    print("Clark")
 
 
-print("Clark")
+main()
